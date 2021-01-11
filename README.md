@@ -1,3 +1,19 @@
+# Crud - Laravel
+
+Se trata de un create, read, update y delete realizado en laravel 8.0. Utiliza MySQL para la administración de Base de datos.
+
+# Tecnologías
+
+- Laravel
+- MySQL
+- Bootstrap
+- JSON Token
+
+
+--------------------------------
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
