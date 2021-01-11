@@ -1,6 +1,6 @@
 # Crud - Laravel
 
-Se trata de un create, read, update y delete realizado en laravel 8.0. Utiliza MySQL para la administración de Base de datos. Incorpora el sistema Login propio del framework.
+Se trata de un CRUD basico para empleados realizado en Laravel 8.0. Utiliza MySQL para la administración de Base de datos. Incorpora el sistema Login propio del framework.
 
 # Tecnologías
 
