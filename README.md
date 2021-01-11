@@ -9,7 +9,11 @@ Se trata de un create, read, update y delete realizado en laravel 8.0. Utiliza M
 - Bootstrap
 - JSON Token
 
-
+# Imagenes de referencia
+![Screen1](https://github.com/aguerosys/sistema-crud-laravel/blob/master/public/screens/login.jpg)
+![Screen2](https://github.com/aguerosys/sistema-crud-laravel/blob/master/public/screens/home.jpg)
+![Screen3](https://github.com/aguerosys/sistema-crud-laravel/blob/master/public/screens/create.jpg)
+![Screen4](https://github.com/aguerosys/sistema-crud-laravel/blob/master/public/screens/edit.jpg)
 --------------------------------
 
 
