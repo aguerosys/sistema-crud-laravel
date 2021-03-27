@@ -1,23 +1,3 @@
-# Crud - Laravel
-
-Se trata de un CRUD basico para empleados realizado en Laravel 8.0. Utiliza MySQL para la administración de Base de datos. Incorpora el sistema Login propio del framework.
-
-# Tecnologías
-
-- Laravel
-- MySQL
-- Bootstrap
-- JSON Token
-
-# Imagenes de referencia
-![Screen1](https://github.com/aguerosys/sistema-crud-laravel/blob/master/public/screens/login.jpg)
-![Screen2](https://github.com/aguerosys/sistema-crud-laravel/blob/master/public/screens/home.jpg)
-![Screen3](https://github.com/aguerosys/sistema-crud-laravel/blob/master/public/screens/create.jpg)
-![Screen4](https://github.com/aguerosys/sistema-crud-laravel/blob/master/public/screens/edit.jpg)
---------------------------------
-
-
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
